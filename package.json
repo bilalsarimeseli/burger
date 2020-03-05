@@ -4,18 +4,19 @@
   "description": "burger app using Node express mysql",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bilalsarimeseli/burger.git"
+    "url": "git+https://github.com/bilalsarimeseli/eat-the-burger"
   },
   "author": "bilal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bilalsarimeseli/burger/issues"
+    "url": "https://github.com/bilalsarimeseli/eat-the-burger/issues"
   },
-  "homepage": "https://github.com/bilalsarimeseli/burger#readme",
+  "homepage": "https://github.com/bilalsarimeseli/eat-the-burger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
