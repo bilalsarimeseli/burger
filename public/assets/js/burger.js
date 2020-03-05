@@ -16,6 +16,7 @@ $(function() {
             data: newBurger
         }).then(function() {
             console.log("Added new burger");
+            jQuery.support.cors = true;
             // Reload the page to get the updated burger list.
             location.reload();
         });
