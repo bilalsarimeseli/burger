@@ -12,6 +12,8 @@ Since MVC architecture was used; once the user makes a request, the request is s
 
 
 ### Local Environment Setup
+```
+
 To use Eat-the-Burger web application application from your local environment, you must accomplish the following steps below:
 
 *Step 1 - You can clone my repo using the command line below.
@@ -29,6 +31,8 @@ Step 3 - Install all required NPM packages.
 Step 4 - Start the application server using the command line below
 
 *node server.js
+
+```
 
 
 
