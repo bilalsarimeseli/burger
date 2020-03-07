@@ -1,18 +1,18 @@
 {
-  "name": "burger",
-  "version": "1.0.0",
+  "name":"burger",
+  "version":"1.0.0",
   "description": "burger app using Node express mysql",
-  "main": "burger.js",
+  "main":"burger.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test":"echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
   },
   "repository": {
-    "type": "git",
+    "type":"git",
     "url": "git+https://github.com/bilalsarimeseli/eat-the-burger"
   },
-  "author": "bilal",
-  "license": "MIT",
+  "author":"bilal",
+  "license":"MIT",
   "bugs": {
     "url": "https://github.com/bilalsarimeseli/eat-the-burger/issues"
   },
