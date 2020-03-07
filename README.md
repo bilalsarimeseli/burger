@@ -34,6 +34,10 @@ Step 4 - Start the application server using the command line below
 
 ```
 
+### DATA OUTPUT TO THE TERMINAL
+
+![screenshot](https://github.com/bilalsarimeseli/eat-the-burger/blob/master/Screen%20Shot%202020-03-07%20at%2012.29.56%20AM.png?raw=true)
+
 
 
 ## Technology used
