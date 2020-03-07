@@ -37,14 +37,15 @@ Step 4 - Start the application server using the command line below
 
 
 ## Technology used
-*node.js - https://nodejs.org/en/
-*heroku-cli NPM Package - https://www.npmjs.com/package/heroku-cli
-*body-parser NPM Package - https://www.npmjs.com/package/body-parser
-*express NPM Package - https://www.npmjs.com/package/express
-*path NPM Package - https://www.npmjs.com/package/path
-
+- [ ] node.js - https://nodejs.org/en/
+- [ ] heroku-cli NPM Package - https://www.npmjs.com/package/heroku-cli
+- [ ] body-parser NPM Package - https://www.npmjs.com/package/body-parser
+- [ ] express NPM Package - https://www.npmjs.com/package/express
+- [ ] path NPM Package - https://www.npmjs.com/package/path
 
 ### Live Link
+
+https://desolate-temple-28640.herokuapp.com/
 
 
 
